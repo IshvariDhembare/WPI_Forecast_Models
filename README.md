@@ -1,2 +1,2 @@
 # WPI_Forecast_Models
-This repository contains time series forecasting models (ARIMA, SARIMA, Holt-Winters, ARMA, and SVR) to predict the Wholesale Price Index (WPI) of potatoes. The study compares model performance using MAPE, MSE, and RMSE. Forecasted values help stakeholders manage agricultural price volatility and make informed decisions. 🚀📊
+This repository focuses on forecasting price volatility in agricultural commodities, specifically the Wholesale Price Index (WPI) of potatoes. Using ARIMA, SARIMA, Holt-Winters, ARMA, and SVR models, we analyze price index data to identify the most accurate forecasting approach. The results aim to assist policymakers, traders, and farmers in making informed decisions. 🚀
